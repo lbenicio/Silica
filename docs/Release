@@ -1,0 +1,12 @@
+Origin: lbenicio apt repository
+Label: lbenicio apt repository
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: lbenicio personal apt repository
+
+SHA256:
+ 506f60a3a6901fc11d51befec2ba0dd1b30357c077e984fa3cb8f8c98d9706e7 813 Packages.bz2
+ 6b8ed912cfc81f2d10ea8ef9eb64439665c36101ef2d39a76edc0d3b312f79ec 804 Packages.xz
